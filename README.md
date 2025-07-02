@@ -22,8 +22,16 @@ Provide guidelines, materials and reference material to successfully organize an
 * Users: Expected user types and usage patterns
 * Data: Information about data sources, volume, and sensitivity
 
+## Project Structure
+
+* [01 Architecture Characteristics](https://github.com/thomgre/architecture-kata-toolkit/tree/main/01%20Architecture%20Characteristics)
+* [02 Logical Components](https://github.com/thomgre/architecture-kata-toolkit/tree/main/02%20Logical%20Components)
+* [03 Architecture Styles](https://github.com/thomgre/architecture-kata-toolkit/tree/main/03%20Architecture%20Styles)
+* [04 Diagramming](https://github.com/thomgre/architecture-kata-toolkit/tree/main/04%20Diagramming)
+* [05 Presentation and Feedback](https://github.com/thomgre/architecture-kata-toolkit/tree/main/05%20Presentation%20and%20Feedback)
+
 ## License
 
 You're free to use and modify all materials provided here to host your own Architecture Kata session.
 
-[LICENSE](BSD 2-Clause License)
+[BSD 2-Clause License](https://github.com/thomgre/architecture-kata-toolkit/blob/main/LICENSE)
