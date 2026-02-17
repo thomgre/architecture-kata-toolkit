@@ -24,6 +24,7 @@ Provide guidelines, materials and reference material to successfully organize an
 * Data: Information about data sources, volume, and sensitivity
 
 ## Project Structure
+Use phase contains a directory with Instructions and reference materials to be used by the teams.
 
 * [01 Architecture Characteristics](https://github.com/thomgre/architecture-kata-toolkit/tree/main/01%20Architecture%20Characteristics)
 * [02 Logical Components](https://github.com/thomgre/architecture-kata-toolkit/tree/main/02%20Logical%20Components)
