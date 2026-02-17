@@ -2,6 +2,7 @@
 
 > [!CAUTION]
 > This is a work in progress
+> Have some feedback or improvements? Fork this repo and create a PR with your suggestions/improvements.
 
 ## What is an Architecture Kata?
 
