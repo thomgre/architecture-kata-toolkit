@@ -32,6 +32,10 @@ Use phase contains a directory with Instructions and reference materials to be u
 * [04 Diagramming](https://github.com/thomgre/architecture-kata-toolkit/tree/main/04%20Diagramming)
 * [05 Presentation and Feedback](https://github.com/thomgre/architecture-kata-toolkit/tree/main/05%20Presentation%20and%20Feedback)
 
+## Example Katas
+* [2024-10-order-management.md](https://github.com/thomgre/architecture-kata-toolkit/blob/main/Katas/2024-10-order-management.md)
+* [2025-04-crop-management.md](https://github.com/thomgre/architecture-kata-toolkit/blob/main/Katas/2025-04-crop-management.md)
+
 ## License
 
 You're free to use and modify all materials provided here to host your own Architecture Kata session.
