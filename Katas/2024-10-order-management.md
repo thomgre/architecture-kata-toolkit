@@ -1,4 +1,4 @@
-# Architecture kata: FreshShop national retail chain
+# Architecture Kata: FreshShop national retail chain
 
 ## Business Case
 

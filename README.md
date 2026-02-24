@@ -1,4 +1,7 @@
-# Architecture Kata Toolkit
+# 🏗 Architecture Kata Toolkit
+**Materials for organizing an Architecture Kata: practice your software architecture design skills!**
+
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://github.com/thomgre/architecture-kata-toolkit/blob/main/LICENSE)
 
 > [!CAUTION]
 > This is a work in progress
@@ -9,6 +12,8 @@
 An architecture kata is a practice exercise designed to help software architects and developers improve their architectural design skills through repetitive, structured problem-solving. The term "kata" comes from martial arts, where it refers to choreographed patterns of movements practiced repeatedly to develop muscle memory and technique.
 
 Architecture katas are hypothetical business scenarios that require participants to design software architectures within realistic constraints. They simulate real-world architectural challenges without the pressure and complexity of actual production systems.
+
+"Architectural Katas are intended as a small-group (3-5 people) exercise, usually as part of a larger group (4-10 groups are ideal), each of whom is doing a different kata. A Moderator keeps track of time, assigns Katas (or allows this website to choose one randomly), and acts as the facilitator for the exercise." - Neil Ford
 
 ## Purpose of this Toolkit
 
