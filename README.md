@@ -45,4 +45,4 @@ Use phase contains a directory with Instructions and reference materials to be u
 
 You're free to use and modify all materials provided here to host your own Architecture Kata session.
 
-[BSD 2-Clause License](https://github.com/thomgre/architecture-kata-toolkit/blob/main/LICENSE)
+[BSD 3-Clause License](https://github.com/thomgre/architecture-kata-toolkit/blob/main/LICENSE)
