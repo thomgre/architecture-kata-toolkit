@@ -1,7 +1,7 @@
 # 🏗 Architecture Kata Toolkit
 **Materials for organizing an Architecture Kata: practice your software architecture design skills!**
 
-<img src="img.jpg" alt="Architecture Crow">
+<img src="img.jpg" alt="Architecture Crow" width="120px" />
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://github.com/thomgre/architecture-kata-toolkit/blob/main/LICENSE)
 
