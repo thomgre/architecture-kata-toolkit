@@ -1,5 +1,7 @@
 # Architecture Characteristics Worksheet
 
+**Create list of main characteristics based on business case**
+
 ## Instructions
 * Select characteristics from [the definition list](list-of-ilities.md) that are most relevant to your business case
 * Identify no more than 7 driving characteristics

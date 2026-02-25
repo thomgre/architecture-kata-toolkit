@@ -1,6 +1,8 @@
 # 🏗 Architecture Kata Toolkit
 **Materials for organizing an Architecture Kata: practice your software architecture design skills!**
 
+<img src="img.jpg" alt="Architecture Crow">
+
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://github.com/thomgre/architecture-kata-toolkit/blob/main/LICENSE)
 
 > [!CAUTION]
@@ -29,7 +31,7 @@ Provide guidelines, materials and reference material to successfully organize an
 * Data: Information about data sources, volume, and sensitivity
 
 ## Project Structure
-Use phase contains a directory with Instructions and reference materials to be used by the teams.
+Each phase contains a directory with Instructions and reference materials to be used by the teams.
 
 * [01 Architecture Characteristics](https://github.com/thomgre/architecture-kata-toolkit/tree/main/01%20Architecture%20Characteristics)
 * [02 Logical Components](https://github.com/thomgre/architecture-kata-toolkit/tree/main/02%20Logical%20Components)

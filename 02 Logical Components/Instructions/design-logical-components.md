@@ -1,5 +1,7 @@
 # Logical Components
 
+**High-level, abstract building blocks diagram**
+
 The logical components are the high level building blocks that compose your vision on the software architecture. Consider it to be your "rough sketch" of the proposed architecture. Thinking about services is too detailed at this stage, so try to think of functionalities that can be isolated into core building blocks: "things that the system needs to do". 
 
 Example: when designing an eCommerce solution, the logical components could be:
